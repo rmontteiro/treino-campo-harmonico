@@ -16,16 +16,6 @@ App interativo para estudar campos harmônicos e praticar a identificação das 
 - `index.html` — página de entrada do GitHub Pages.
 - `campos-harmonicos.html` — aplicativo propriamente dito.
 
-Mantenha os dois arquivos na raiz do repositório; o `index.html` carrega o app pelo nome `campos-harmonicos.html`.
-
-## Publicar com GitHub Pages
-
-1. Crie um repositório no GitHub e envie os dois arquivos para a raiz.
-2. Abra **Settings → Pages**.
-3. Em **Build and deployment**, selecione **Deploy from a branch**.
-4. Escolha a branch `main` e a pasta `/ (root)`, depois clique em **Save**.
-5. Aguarde a publicação. O endereço ficará no formato `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
-
 ## Usar localmente
 
 Baixe os dois arquivos na mesma pasta e abra `index.html` em um navegador moderno. Para ouvir os acordes, permita a reprodução de áudio e toque num cartão ou botão de reprodução.
